@@ -5,7 +5,8 @@ Se trata de que el usuario entre las edades de 8 y 10 años es un agente que con
 A lo largo del juego debe superar diferentes retos, acertijos y tomar decisiones que le permitan avanzar en la historia. Además, cuenta con herramientas, pistas y un sistema de puntos y vidas que hacen la experiencia más entretenida y dinámica. Al finalizar la misión, el jugador recibe una clasificación de acuerdo con su desempeño, fomentando el razonamiento lógico, la resolución de problemas y la diversión durante el aprendizaje."
 
 # Fase: 2 - Diagrama de Flujo -
-"El diagrama de flujo nos ayudó a organizar de forma clara cómo va a ir avanzando el jugador dentro del juego. Empieza desde lo básico, que es darle la bienvenida y dejar que elija su nombre de agente y su herramienta, hasta entregarle sus 3 vidas iniciales. A lo largo del camino se muestran las decisiones que tiene que tomar, como responder acertijos, investigar el mapa y usar las pistas para resolver el misterio. Al final, según cómo le haya ido en puntos y vidas, el juego le da su reporte y le asigna un rango (Novato, Élite o Leyenda). En resumen, este esquema nos sirvió para tener bien pensado cada paso y ver cómo se conecta todo antes de pasar a lo demás."
+"El diagrama de flujo ayudó a organizar de forma clara cómo va a ir avanzando el jugador dentro del juego. Empieza desde lo básico, que es darle la bienvenida y dejar que elija su nombre de agente y su herramienta, hasta entregarle sus 3 vidas iniciales. 
+A lo largo del camino se muestran las decisiones que tiene que tomar, como responder acertijos y usar las pistas para resolver el misterio. Al final, según cómo le haya ido en puntos y vidas, el juego le da su reporte y le asigna un rango."
 
 
 # Fase: 3 - Código del Juego -
